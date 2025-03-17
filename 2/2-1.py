@@ -12,3 +12,4 @@ print(str(b)+c)
 print(c+d)
 print(type(a))
 print(type(c))
+
