@@ -15,9 +15,7 @@ input()
 # 사용자가 엔터 키를 누를 때까지 대기
 start_time = time.time()
 
-#게임 시작 시간을 기록
-
-while n <= 3:     # 고정된 라운드 수를 위해 반복문을 사용(원하는 수 만큼 설정)
+while n <= 10:     # 고정된 라운드 수를 위해 반복문을 사용(원하는 수 만큼 설정)
     print(f"* 라운드 {n}*")
     current_word = random.choice(words)
     # 리스트에서 무작위로 단어를 선택
