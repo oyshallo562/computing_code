@@ -7,6 +7,7 @@ word_list_lv3 = ["Python", "Java", "C", "C++", "C#", "JavaScript", "HTML", "CSS"
 word_list_lv4 = ["PythonProgramming", "JavaProgramming", "CProgramming", "C++Programming", "C#Programming", "JavaScriptProgramming", "HTMLProgramming", "CSSProgramming", "PHPProgramming"]
 
 score = 0
+n = 1
 
 name = input("이름을 입력하세요=> ")
 print("타자 게임 준비되면 Enter~")
