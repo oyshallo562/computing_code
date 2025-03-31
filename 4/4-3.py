@@ -1,6 +1,6 @@
-str = "PYTHON"
+str = "PYTHON JAVA"
 # 문자열 인덱싱
-print(str[O])
+print(str[0])
 print(str[1])
 print(str[5])
 print(str[-1])
@@ -14,3 +14,6 @@ print(str[:6])
 print(str[:])
 #오류
 print(str[6])
+
+#JAVA민 뽑기
+print(str[7:])

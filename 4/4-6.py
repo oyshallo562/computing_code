@@ -9,6 +9,6 @@ while True:
        print("You guessed right!")
        break
    elif my_number > num:
-       print("UP!")
-   elif my_number < num:
        print("DOWN!")
+   elif my_number < num:
+       print("UP!")

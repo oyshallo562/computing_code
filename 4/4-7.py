@@ -10,8 +10,8 @@ while True:
                print("You guessed right!")
                break
         elif my_number > num:
-               print("UP!")
-        elif my_number < num:
                print("DOWN!")
+        elif my_number < num:
+               print("UP!")
     except:
         print("Error 발생, 숫자를 입력하세요")
