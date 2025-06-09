@@ -1,0 +1,1 @@
+pip install subprocess sys pygame turtle time random
